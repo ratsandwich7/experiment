@@ -1,0 +1,18 @@
+ h1, h2, h3, h4 {
+            /* background-color: darkslategray; */
+            color: rgb(178, 190, 198);
+            font-size: 30px;
+        }
+        h1 {
+            color: rgba(92, 146, 178, 0.76);
+        }
+        .important {
+            color: rgb(82, 52, 140);
+        }
+
+        .uppercase {
+            text-transform: uppercase;
+        }
+        #the-one {
+            color: cornflowerblue;
+        }
